@@ -30,8 +30,6 @@ This repository contains the project developed for the **WEBBED Competition** or
    ```
 3. Open `index.html` in a browser to view the project.
 
-## Screenshots
-(Add screenshots of your project here if available.)
 
 ## Contributors
 - Mustafa
@@ -46,5 +44,5 @@ This repository contains the project developed for the **WEBBED Competition** or
 This project is for educational purposes only and is not intended for commercial use.
 
 ---
-Feel free to update this README with additional details or modifications!
+
 
