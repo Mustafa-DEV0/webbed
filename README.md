@@ -17,6 +17,7 @@ This repository contains the project developed for the **WEBBED Competition** or
 - **Animations & Effects:** Replicating smooth UI/UX elements.
 - **Navigation & UI Components:** Implementing similar headers, footers, and layout structure.
 - **Performance Optimization:** Writing clean and optimized code for faster loading.
+- **Fluid Cursor Animation:** The website features a fluid cursor animation, which is implemented using WebGL code from CodePen.
 
 ## Installation & Setup
 1. Clone the repository:
